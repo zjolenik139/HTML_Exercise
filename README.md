@@ -41,10 +41,10 @@ Steps are to be completed under the div with `id="exercise3"`
 Steps are to be completed under the div with `id="exercise4"`
 
 1. Edit the **paragraph** element's text content so that:
-   - the word "span" is enclosed in a **span** element
-   - the word "underlined" is enclosed in an **underline** element
-   - the word "italicized" is enclosed in an **emphasis** element
-   - the word "bolded" is enclosed in an **strong** element
+   - the word "Bredon" is enclosed in a span element
+   - any word "play" is enclosed in an underline element
+   - any word "beautiful" is enclosed in an emphasis element
+   - any word "point" is enclosed in an strong element
 
 ## Exercise 5
 
